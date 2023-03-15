@@ -1,0 +1,9 @@
+Controles:
+
+
+Arriba/salto = barra espaciadora
+
+movimiento izquierda/derecha con las flechas respectivas 
+
+para agregar mas terreno al escenario posicionar el cursor y pulsar click izquierdo
+y se agregara terreno al escenario. 
