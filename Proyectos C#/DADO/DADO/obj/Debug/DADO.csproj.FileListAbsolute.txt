@@ -1,0 +1,10 @@
+C:\Users\vayat\source\repos\DADO\DADO\bin\Debug\DADO.exe.config
+C:\Users\vayat\source\repos\DADO\DADO\bin\Debug\DADO.exe
+C:\Users\vayat\source\repos\DADO\DADO\bin\Debug\DADO.pdb
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.csprojAssemblyReference.cache
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.Form1.resources
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.Properties.Resources.resources
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.csproj.GenerateResource.cache
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.csproj.CoreCompileInputs.cache
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.exe
+C:\Users\vayat\source\repos\DADO\DADO\obj\Debug\DADO.pdb

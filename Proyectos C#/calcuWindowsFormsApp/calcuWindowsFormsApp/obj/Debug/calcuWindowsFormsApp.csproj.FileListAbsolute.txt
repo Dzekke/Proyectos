@@ -1,0 +1,10 @@
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\bin\Debug\calcuWindowsFormsApp.exe.config
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\bin\Debug\calcuWindowsFormsApp.exe
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\bin\Debug\calcuWindowsFormsApp.pdb
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.csprojAssemblyReference.cache
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.Form1.resources
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.Properties.Resources.resources
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.exe
+C:\Users\vayat\source\repos\calcuWindowsFormsApp\calcuWindowsFormsApp\obj\Debug\calcuWindowsFormsApp.pdb

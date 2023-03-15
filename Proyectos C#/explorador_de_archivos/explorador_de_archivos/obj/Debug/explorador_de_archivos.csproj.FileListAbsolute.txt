@@ -1,0 +1,10 @@
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\bin\Debug\explorador_de_archivos.exe.config
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\bin\Debug\explorador_de_archivos.exe
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\bin\Debug\explorador_de_archivos.pdb
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.csprojAssemblyReference.cache
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.Form1.resources
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.Properties.Resources.resources
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.csproj.GenerateResource.cache
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.csproj.CoreCompileInputs.cache
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.exe
+c:\users\vayat\source\repos\explorador_de_archivos\explorador_de_archivos\obj\Debug\explorador_de_archivos.pdb
